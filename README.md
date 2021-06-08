@@ -1,4 +1,4 @@
-# Comp306_Project_Spring2021
+# Comp306_Project_Spring21
 
 ## Code:
 ### Doğa Demirtürk
