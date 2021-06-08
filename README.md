@@ -1,9 +1,9 @@
 # Comp306_Project_Spring2021
 
-##Code:
+## Code:
 ### Doğa Demirtürk
 ### Zeynep Sıla Kaya
 
-##Database:
+## Database:
 ### Ece Güz
 ### İrem Nur Bulut
